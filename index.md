@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
+[Project 1 Title](/Unsupervised Machine Learning Example.html)
 <img src="images/dumy_thumbnail.jpg?raw=true"/>
 
 ---
