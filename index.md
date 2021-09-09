@@ -5,11 +5,11 @@
 ### Category Name 1 
 
 [Unsupervised Machine Learning](/Unsupervised Machine Learning Example.html)
-<img src="images/dumy_thumbnail.jpg?raw=true"/>
+<img src="images/Machine Learning Distributions PNG.PNG?raw=true"/>
 
 ---
 [Data Cleaning & Transformation](/Extensive Data Cleaning & Transformation.html)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Data Transformation PNG.PNG?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
