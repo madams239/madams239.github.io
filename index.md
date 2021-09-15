@@ -8,13 +8,12 @@
 <img src="GoT_Network_Analysis.PNG?raw=true"/>
 
 ---
-[Unsupervised Machine Learning](/Unsupervised Machine Learning Example.html)
-<img src="images/Machine Learning Distributions PNG.PNG?raw=true"/>
+[Data Analyst SQL COVID Analysis](/SQL COVID 19 Project 1.sql)
+<img src="images/SQL COVID 19 Screenshot 1.PNG?raw=true"/>
 
 ---
-[Data Cleaning & Transformation](/Extensive Data Cleaning & Transformation.html)
-<img src="images/Data Transformation PNG.PNG?raw=true"/>
-
+[Unsupervised Machine Learning](/Unsupervised Machine Learning Example.html)
+<img src="images/Machine Learning Distributions PNG.PNG?raw=true"/>
 ---
 
 
