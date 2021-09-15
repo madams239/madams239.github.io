@@ -5,16 +5,19 @@
 ### Data Science Projects 
 
 [Game of Thrones Network Analysis](/GoT_Network_Analysis_DataCamp.html)
+
 <img src="GoT_Network_Analysis.PNG?raw=true"/>
 
 ---
 
 [Data Analyst SQL COVID Analysis](/SQL COVID 19 Project 1.sql)
+
 <img src="images/SQL COVID 19 Screenshot 1.PNG?raw=true"/>
 
 ---
 
 [Unsupervised Machine Learning](/Unsupervised Machine Learning Example.html)
+
 <img src="images/Machine Learning Distributions PNG.PNG?raw=true"/>
 ---
 
