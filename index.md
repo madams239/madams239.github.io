@@ -4,7 +4,7 @@
 
 ### Data Science Projects 
 
-[COVID-19 Interactive Dashboard (Tableau)](/https://public.tableau.com/shared/PDGY5GRZB?:display_count=n&:origin=viz_share_link)
+[COVID-19 Interactive Dashboard (Tableau)](/Projects/Tableau/index.html)
 
 An Interactive COVID-19 Dashboard with Data Updated to September of 2021 - Created with Tableau
 
