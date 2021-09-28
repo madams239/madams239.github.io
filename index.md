@@ -7,7 +7,7 @@
 
 
 ---
-[Deep Learning Image Recognition for Golf Ball Brand Recognition](/projects/Deep_Learning_Classifier.html)
+[Deep Learning Image Recognition for Golf Ball Brand Recognition](/Projects/Deep_Learning_Classifier.html)
 
 A Deep Learning Classifier built with the Fast AI package in Python to identify brands when searching for Golf Balls.
 
