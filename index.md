@@ -5,6 +5,12 @@
 ### Data Science Projects 
 
 
+---
+[Linked In Job Scraper Complete w/ NLP Resume Scanner](/Projects/Complete_LinkedIn_Scraper.html)
+
+A web scraping tool built with Python's Selenium package which takes in a title and location as an input, and returns x amount of pages of scraped job descriptions from LinkedIn. These job descriptions are then compared against an inputted Resume using Natural Language Processing.
+
+<img src="images/Job_Scraper.PNG?raw=true"/>
 
 ---
 [Deep Learning Image Recognition for Golf Ball Brand Recognition](/Projects/Deep_Learning_Classifier.html)
