@@ -11,6 +11,12 @@
 A web scraping tool built with Python's Selenium package which takes in a title and location as an input, and returns x amount of pages of scraped job descriptions from LinkedIn. These job descriptions are then compared against an inputted Resume using Natural Language Processing.
 
 <img src="images/Job_Scraper.PNG?raw=true"/>
+---
+[End-to-End Machine Learning Project](/Projects/end_to_end_ML.html)
+
+A complete End-to-end Machine Learning project workflow, which takes in Iowa Housing Data, trains multiple regression models using sklearn, XGBoost, and optimizes these models with Grid Search CV to predict the selling prices of houses. This workflow goes through Exploratory Data Analysis, Data Cleaning/Wrangling, Feature Engineering, Parameter Fine-Tuning, and Predictive Analysis. 
+
+<img src="images/end-to-end-ml.png?raw=true"/>
 
 ---
 [Deep Learning Image Recognition for Golf Ball Brand Recognition](/Projects/Deep_Learning_Classifier.html)
