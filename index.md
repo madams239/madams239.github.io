@@ -11,6 +11,7 @@
 A web scraping tool built with Python's Selenium package which takes in a title and location as an input, and returns x amount of pages of scraped job descriptions from LinkedIn. These job descriptions are then compared against an inputted Resume using Natural Language Processing.
 
 <img src="images/Job_Scraper.PNG?raw=true"/>
+
 ---
 [End-to-End Machine Learning Project](/Projects/end_to_end_ML.html)
 
