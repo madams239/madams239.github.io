@@ -12,7 +12,7 @@ A web scraping tool built with Python's Selenium package which takes in a title 
 
 <img src="images/Job_Scraper.PNG?raw=true"/>
 
----
+--- 
 [End-to-End Machine Learning Project](/Projects/end_to_end_ML.html)
 
 A complete End-to-end Machine Learning project workflow, which takes in Iowa Housing Data, trains multiple regression models using sklearn, XGBoost, and optimizes these models with Grid Search CV to predict the selling prices of houses. This workflow goes through Exploratory Data Analysis, Data Cleaning/Wrangling, Feature Engineering, Parameter Fine-Tuning, and Predictive Analysis. 
