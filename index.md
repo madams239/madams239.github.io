@@ -49,21 +49,7 @@ K-Means Analysis on Student Grade Data set Using Python's Scikit-learn and Panda
 
 <img src="images/Machine Learning Distributions PNG.PNG?raw=true"/>
 ---
-
-
-### Coursework & DataCamp Projects
-
-- [Game of Thrones Network Analysis](/GoT_Network_Analysis_DataCamp.html)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
 ---
-
-
-
-
 ---
 
 <!-- Remove above link if you don't want to attibute -->
