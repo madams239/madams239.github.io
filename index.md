@@ -8,7 +8,7 @@
 [Michelin ChefGPT LLM w/ Langchain, Huggingface, and OpenAI](/Projects/bot.py)
 
 A Streamlit app called "ChefGPT" uses a HuggingFace LLM, LangChain, and OpenAI integration to generate gourmet recipes and detailed preparation steps based on user-provided ingredients in an interactive chat interface.
-<img src="images/langchain_hugging_face.PNG?raw=true"/>
+<img src="images/langchain_hugging_face.png?raw=true"/>
 
 ---
 [Linked In Job Scraper Complete w/ NLP Resume Scanner](/Projects/Complete_LinkedIn_Scraper.html)
