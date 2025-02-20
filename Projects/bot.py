@@ -67,5 +67,5 @@ for user_msg, chef_msg in st.session_state.chat_history:
 
 # Footer
 st.markdown(
-    "---\n#### Built with ❤️ using LangChain, HuggingFace, and Streamlit"
+    "---\n#### Built using LangChain, HuggingFace, and Streamlit"
 )
